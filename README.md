@@ -1,0 +1,1 @@
+Implementação do padrão de projeto strategy baseado no artigo https://www.thiengo.com.br/padrao-de-projeto-strategy-estrategia#title-2
